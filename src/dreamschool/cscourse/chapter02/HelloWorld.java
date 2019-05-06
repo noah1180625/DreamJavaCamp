@@ -1,11 +1,11 @@
-package icehs.science.chapther02;
+package dreamschool.cscourse.chapter02;
 
 public class HelloWorld {
 
 	public static void main(String[] args) {
         System.out.println("Hello world"); //나의 첫 작품
         /*
-         * My First Java Class
+         * My First Java Class	
          * 
          */
         System.out.println("꿈의 학교");
