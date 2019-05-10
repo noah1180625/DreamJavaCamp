@@ -6,7 +6,7 @@ public class GuGu3DanTest {
 		// TODO Auto-generated method stub
 		int dan = 3;
 		
-		for (int i = 1; i < 10; i++) {
+		for (int i = 1; i < 1000; i++) {
 			System.out.println (dan + "*" +i + "=" +(dan * i)+"\t");
 		}
 
